@@ -1,0 +1,13 @@
+bin/
+obj/
+sql/
+/*/Bin/
+/*/Obj/
+/*/Test/
+Generated_Code/
+StyleCop.Cache
+*.suo
+*.user
+*.xap
+*.dbmdl
+*.schemaview
